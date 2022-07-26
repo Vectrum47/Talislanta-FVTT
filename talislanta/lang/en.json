@@ -1,0 +1,22 @@
+{
+  "TALISLANTA.AbilityStr": "Strength",
+  "TALISLANTA.AbilityCon": "Constitution",
+  "TALISLANTA.AbilityDex": "Dexterity",
+  "TALISLANTA.AbilityInt": "Intelligence",
+  "TALISLANTA.AbilityWis": "Wisdom",
+  "TALISLANTA.AbilityCha": "Charisma",
+
+  "TALISLANTA.AbilityStrAbbr": "str",
+  "TALISLANTA.AbilityConAbbr": "con",
+  "TALISLANTA.AbilityDexAbbr": "dex",
+  "TALISLANTA.AbilityIntAbbr": "int",
+  "TALISLANTA.AbilityWisAbbr": "wis",
+  "TALISLANTA.AbilityChaAbbr": "cha",
+
+  "TALISLANTA.EffectCreate": "Create Effect",
+  "TALISLANTA.EffectToggle": "Toggle Effect",
+  "TALISLANTA.EffectEdit": "Edit Effect",
+  "TALISLANTA.EffectDelete": "Delete Effect",
+
+  "TALISLANTA.Add": "Add"
+}
