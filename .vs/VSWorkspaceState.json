@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\talislanta",
+    "\\talislanta\\css",
+    "\\talislanta\\module",
+    "\\talislanta\\module\\documents",
+    "\\talislanta\\module\\helpers",
+    "\\talislanta\\module\\sheets",
+    "\\talislanta\\templates",
+    "\\talislanta\\templates\\actor",
+    "\\talislanta\\templates\\actor\\parts"
+  ],
+  "SelectedNode": "\\talislanta\\templates\\actor\\actor-character-sheet.html",
+  "PreviewInSolutionExplorer": false
+}
